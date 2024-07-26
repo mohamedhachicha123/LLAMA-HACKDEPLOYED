@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from 'react';
-import './NavBar.css';
+import './navbar.css';
 import * as dotenv from "dotenv";
 dotenv.config();
 
